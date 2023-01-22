@@ -1,0 +1,6 @@
+# игнорировать файл .idea
+.idea
+# игнорировать файл .DS_Store
+.DS_Store
+# игнорировать файл target
+target
